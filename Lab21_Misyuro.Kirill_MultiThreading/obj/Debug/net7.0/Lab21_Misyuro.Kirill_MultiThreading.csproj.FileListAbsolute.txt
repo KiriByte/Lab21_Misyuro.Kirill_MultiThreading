@@ -1,0 +1,15 @@
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\bin\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.exe
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\bin\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.deps.json
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\bin\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.runtimeconfig.json
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\bin\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.dll
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\bin\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.pdb
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.csproj.AssemblyReference.cache
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.AssemblyInfoInputs.cache
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.AssemblyInfo.cs
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.csproj.CoreCompileInputs.cache
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.dll
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\refint\Lab21_Misyuro.Kirill_MultiThreading.dll
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.pdb
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\Lab21_Misyuro.Kirill_MultiThreading.genruntimeconfig.cache
+H:\Projects\Lab21_Misyuro.Kirill_MultiThreading\Lab21_Misyuro.Kirill_MultiThreading\obj\Debug\net7.0\ref\Lab21_Misyuro.Kirill_MultiThreading.dll

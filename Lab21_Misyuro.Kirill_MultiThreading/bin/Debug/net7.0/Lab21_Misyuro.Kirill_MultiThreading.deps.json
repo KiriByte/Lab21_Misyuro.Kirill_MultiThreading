@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab21_Misyuro.Kirill_MultiThreading/1.0.0": {
+        "runtime": {
+          "Lab21_Misyuro.Kirill_MultiThreading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab21_Misyuro.Kirill_MultiThreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
